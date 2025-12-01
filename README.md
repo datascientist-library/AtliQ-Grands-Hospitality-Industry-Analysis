@@ -1,3 +1,5 @@
+
+![Dashboard Preview](dashboard.png) 
 ---
 
 # **AtliQ Grands Hospitality Industry Analysis**
