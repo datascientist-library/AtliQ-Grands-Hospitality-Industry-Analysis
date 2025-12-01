@@ -164,6 +164,7 @@ The dashboard provides insights into:
  ┃ ┗ Atliq_Hospitality_Data.xlsx
  ┣ 📄 README.md
  ┗ 📁 Documentation (optional)
+```
 
 ---
 
@@ -182,5 +183,3 @@ For queries or collaboration opportunities, connect with me on GitHub or LinkedI
 
 ---
 
-
-Just let me know!
