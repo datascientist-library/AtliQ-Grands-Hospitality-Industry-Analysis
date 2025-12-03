@@ -188,9 +188,10 @@ The dashboard provides insights into:
 
 ---
 
-##  **Contact**
+##  Author
 
-For queries or collaboration opportunities, connect with me on GitHub or LinkedIn.
+**Mihir Patil**  
+Data Science Capstone Project
 
 ---
 
