@@ -169,7 +169,7 @@ The dashboard provides insights into:
  ┃ ┗ dim_rooms.csv
  ┃ ┗ fact_aggregated_bookings.csv
  ┃ ┗ fact_bookings.csv
- ┣  AtliQ Grands Hospitality Industry Dashboard.pbix
+ ┣ AtliQ Grands Hospitality Industry Dashboard.pbix
  ┣ ‎AtliQ Grands Hospitality Industry Presentation.pptx
  ┣  README.md
  ┣  LICENSE
