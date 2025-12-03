@@ -162,12 +162,19 @@ The dashboard provides insights into:
 ##  **Project Structure**
 
 ```
- AtliQ-Grands-Hospitality-Analysis
- ┣  PowerBI_Dashboard.pbix
- ┣  Dataset
- ┃ ┗ Atliq_Hospitality_Data.xlsx
+ AtliQ-Grands-Hospitality-Industry-Analysis
+ ┣  Datasets
+ ┃ ┗ dim_date.csv
+ ┃ ┗ dim_hotels.csv
+ ┃ ┗ dim_rooms.csv
+ ┃ ┗ fact_aggregated_bookings.csv
+ ┃ ┗ fact_bookings.csv
+ ┣  AtliQ Grands Hospitality Industry Dashboard.pbix
+ ┣ ‎AtliQ Grands Hospitality Industry Presentation.pptx
  ┣  README.md
- ┗  Documentation (optional)
+ ┣  LICENSE
+ ┗  dashboard.png
+
 ```
 
 ---
