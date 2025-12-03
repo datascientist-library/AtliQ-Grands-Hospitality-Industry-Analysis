@@ -1,10 +1,12 @@
 
-![Dashboard Preview](dashboard.png) 
 ---
 
 # **AtliQ Grands Hospitality Industry Analysis**
 
 Power BI Dashboard | Hospitality Analytics | Data Cleaning & Transformation
+
+![Dashboard Preview](dashboard.png) 
+---
 
 ## 📌 **Project Overview**
 
