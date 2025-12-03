@@ -8,7 +8,7 @@ Power BI Dashboard | Hospitality Analytics | Data Cleaning & Transformation
 ![Dashboard Preview](dashboard.png) 
 ---
 
-## 📌 **Project Overview**
+##  **Project Overview**
 
 AtliQ Grands Hospitality Analysis is a data-driven project focused on understanding hotel performance trends across multiple cities, categories, and room types.
 Using data from Excel and transforming it in Power BI, this project analyzes revenue, occupancy, booking behavior, customer ratings, and room utilization patterns for hotels under the AtliQ Grands brand.
@@ -17,7 +17,7 @@ The result is an interactive **Power BI dashboard** that empowers hospitality st
 
 ---
 
-## 🎯 **Objectives**
+##  **Objectives**
 
 * Clean and transform raw hospitality datasets.
 * Create industry-standard hospitality KPIs.
@@ -27,7 +27,7 @@ The result is an interactive **Power BI dashboard** that empowers hospitality st
 
 ---
 
-## 🧾 **Dataset Description**
+##  **Dataset Description**
 
 The project is built on an Excel dataset containing bookings, properties, room types, and date-specific information. Below is the detailed column explanation:
 
@@ -79,7 +79,7 @@ The project is built on an Excel dataset containing bookings, properties, room t
 
 ---
 
-## 📊 **New Metrics Created in Power BI**
+##  **New Metrics Created in Power BI**
 
 ### **1. Revenue per Available Room (RevPAR)**
 
@@ -120,7 +120,7 @@ BRN = URN + No Shows + Cancellations
 
 ---
 
-## 🔧 **Data Cleaning & Transformation**
+##  **Data Cleaning & Transformation**
 
 ### **1. dim_date Cleanup**
 
@@ -145,7 +145,7 @@ BRN = URN + No Shows + Cancellations
 
 ---
 
-## 📈 **Power BI Dashboard Highlights**
+##  **Power BI Dashboard Highlights**
 
 The dashboard provides insights into:
 
@@ -159,20 +159,20 @@ The dashboard provides insights into:
 
 ---
 
-## 📁 **Project Structure**
+##  **Project Structure**
 
 ```
-📦 AtliQ-Grands-Hospitality-Analysis
- ┣ 📊 PowerBI_Dashboard.pbix
- ┣ 📂 Dataset
+ AtliQ-Grands-Hospitality-Analysis
+ ┣  PowerBI_Dashboard.pbix
+ ┣  Dataset
  ┃ ┗ Atliq_Hospitality_Data.xlsx
- ┣ 📄 README.md
- ┗ 📁 Documentation (optional)
+ ┣  README.md
+ ┗  Documentation (optional)
 ```
 
 ---
 
-## 📚 **Skills Demonstrated**
+##  **Skills Demonstrated**
 
 * Power BI (Data Modeling, DAX, Dashboard Design)
 * Data Cleaning & Transformation
@@ -181,7 +181,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📬 **Contact**
+##  **Contact**
 
 For queries or collaboration opportunities, connect with me on GitHub or LinkedIn.
 
